@@ -1,2 +1,1 @@
-[![Santeri's github stats](https://github-readme-stats.vercel.app/api?username=saneDG&show_icons=true&bg_color=0f2027&include_all_commits=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saneDG&bg_color=0f2027&include_all_commits=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
